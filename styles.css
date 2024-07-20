@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(160, 160, 161);
+  }
+
+  div {
+    background-color: rgb(211, 26, 5);
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    
+    th,
+td {
+  padding: 8 px;
+  text-align: left;
+  border-bottom: 1 px solid black;
+}
